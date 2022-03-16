@@ -85,44 +85,29 @@ When I am not coding, you'll find me listening music and reading books. Find out
 
 ---
 
-<!-- ## 📕 Pinned Repositories
+## 📕 Pinned Repositories
 
 <p align="center">
-<a href="https://github.com/Asmit2952/Asmit2952.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=Asmit2952.github.io&hide_border=true&theme=radical" />
+
+<a href="https://github.com/prog-harsh/Hacktoberfest2021">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prog-harsh&repo=Hacktoberfest2021&hide_border=true&theme=radical" />
 </a>
 
-<a href="https://github.com/Asmit2952/Twitter-Dynamic-Header">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=Twitter-Dynamic-Header&hide_border=true&theme=radical" />
+<a href="https://github.com/prog-harsh/DR.Fit">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prog-harsh&repo=DR.Fit&hide_border=true&theme=radical" />
 </a>
 
-<a href="https://github.com/Asmit2952/Weather-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=Weather-App&hide_border=true&theme=radical" />
+<a href="https://github.com/prog-harsh/SmartHomeApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prog-harsh&repo=SmartHomeApp&hide_border=true&theme=radical" />
 </a>
 
-<a href="https://github.com/Asmit2952/Web-accessibility-tester">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=Web-accessibility-tester&hide_border=true&theme=radical" />
+<a href="https://github.com/prog-harsh/TodoApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prog-harsh&repo=TodoApp&hide_border=true&theme=radical" />
 </a>
 
-<a href="https://github.com/Asmit2952/MP3-Player">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=MP3-Player&hide_border=true&theme=radical" />
-</a>
+</p>
 
-<a href="https://github.com/Asmit2952/CLI-passgen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=CLI-passgen&hide_border=true&theme=radical" />
-</a>
-
-<a href="https://github.com/Asmit2952/URL-Shortener">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=URL-Shortener&hide_border=true&theme=radical" />
-</a>
-
-<a href="https://github.com/Asmit2952/MsgByte_Chat-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=MsgByte_Chat-App&hide_border=true&theme=radical" />
-</a>
-
-</p> -->
-
-![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=prog-harsh&hide_border=true&theme=redical)
+<!-- ![Harsh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=prog-harsh&hide_border=true&theme=redical) -->
 
 ---
 
