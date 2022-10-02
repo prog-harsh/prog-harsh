@@ -1,4 +1,5 @@
 # Hey!! Great to see you here! <img src="/Hi.gif" width="30px" height="30px">
+![](https://komarev.com/ghpvc/?username=prog-harsh&style=for-the-badge&color=0891b2&labelColor=1c1917)
 <h3 align="center">A passionate App developer from India</h3>
 
 ![image](https://user-images.githubusercontent.com/62786689/158386822-5355a031-0754-486c-b810-7c51c8f78fd1.png)
